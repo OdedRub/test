@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  weatherapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-26T16:24:39.221874246+02:00"
+    description: A Helm chart for Kubernetes
+    digest: d5b3e81d585a3a773b3d7f21a4af7c17f5be2ecf241444f5766ade6d6ac246af
+    name: weatherapp
+    type: application
+    urls:
+    - https://OdedRub.github.io/test/weatherapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-26T16:24:39.221520268+02:00"
